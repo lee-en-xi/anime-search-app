@@ -3,7 +3,7 @@
 A React TypeScript application for searching anime using the Jikan API.
 
 ## Live Demo
-[View Live App](your-netlify-url-here) <!-- Replace with your actual Netlify URL -->
+[View Live App](https://subtle-kringle-f34510.netlify.app/) <!-- Replace with your actual Netlify URL -->
 
 ## Features
 - 🔍 **Instant Search** - Real-time anime search with 250ms debouncing
